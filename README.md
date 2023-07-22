@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- Java 17or later
+- Java 17 or later
 - Maven
 - Spring Boot 3.1.2
 
